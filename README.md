@@ -99,11 +99,13 @@ Create folder:
 #### Note: .toBeInTheDocument() is error typescript
 At file _tsconfig.app.json_ add "test" in include\
 
-```
+    ```
     {
         ...
         "include": ["src", "test"]
     }
-```
+    ```
+### Prefer link
+You can prefer setup Jest at [link](https://www.youtube.com/watch?v=jlZBrcnoP9g).
 
 **Done.**
